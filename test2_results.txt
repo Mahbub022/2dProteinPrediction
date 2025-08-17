@@ -1,0 +1,71 @@
+--- TEST2 RESULTS ---
+Loss: 2.0132
+Accuracy sst3: 0.6824
+Accuracy sst8: 0.5386
+
+Confusion Matrix sst3:
+[[47854  6910  8444]
+ [10909 16756  4305]
+ [11473  3810 33899]]
+
+Confusion Matrix sst8:
+[[33420  4188     0    96     0  1420    81  3979]
+ [ 4460 19318     0    28     0  1005   110  5216]
+ [  262   600     0     3     0   150     8   810]
+ [ 1719   888     0   220     0   666    23  1681]
+ [  517    98     0     2     6    60     0   118]
+ [ 3828  2023     0   134     0  5563   152  4802]
+ [ 2197  2285     0    44     0  1955   519  6561]
+ [ 4715  6919     0    87     0  2404   308 18712]]
+
+Individual Predictions (first 50 shown):
+sst3: true=0 pred=0 | sst8: true=7 pred=7
+sst3: true=0 pred=0 | sst8: true=7 pred=7
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=1 | sst8: true=0 pred=1
+sst3: true=2 pred=1 | sst8: true=0 pred=1
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=0 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=0 | sst8: true=0 pred=7
+sst3: true=2 pred=0 | sst8: true=0 pred=5
+sst3: true=0 pred=0 | sst8: true=7 pred=5
+sst3: true=0 pred=1 | sst8: true=7 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=0 pred=0 | sst8: true=7 pred=7
+sst3: true=0 pred=0 | sst8: true=5 pred=5
+sst3: true=0 pred=0 | sst8: true=5 pred=5
+sst3: true=0 pred=0 | sst8: true=6 pred=6
+sst3: true=0 pred=0 | sst8: true=7 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=1 pred=1 | sst8: true=1 pred=1
+sst3: true=0 pred=2 | sst8: true=5 pred=0
+sst3: true=0 pred=2 | sst8: true=5 pred=0
+sst3: true=1 pred=2 | sst8: true=1 pred=0
+sst3: true=1 pred=2 | sst8: true=1 pred=0
+sst3: true=1 pred=2 | sst8: true=1 pred=0
+sst3: true=1 pred=2 | sst8: true=1 pred=0
+sst3: true=0 pred=0 | sst8: true=6 pred=6
+sst3: true=0 pred=0 | sst8: true=6 pred=7
+sst3: true=0 pred=0 | sst8: true=6 pred=5
+sst3: true=0 pred=0 | sst8: true=7 pred=7
+sst3: true=2 pred=0 | sst8: true=0 pred=7
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
+sst3: true=2 pred=2 | sst8: true=0 pred=0
